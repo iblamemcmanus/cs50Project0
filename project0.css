@@ -1,0 +1,52 @@
+h1 {
+	color: white;
+
+}
+
+body {
+	/*background-repeat: no-repeat;
+	background-attachment: fixed;*/
+	background-color: black;
+
+}
+
+
+.header {
+	text-align: center;
+}
+
+/*.header > h1 {
+	text-align: center;
+
+}
+*/
+div.header {
+	background-color: pink;
+	font-size: 30px;
+	margin: 10px;
+	padding: 10px;
+	width: 80%;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.innerHeader{
+	margin: auto;
+	width: 80%;
+}l
+
+/*@media (min-width: 500px) {
+	body {
+		background-color: #339933;
+		}
+	}
+
+@media(max-width: 499px) {
+		body {
+			background-color: #339933;
+		}
+	}
+	
+	
